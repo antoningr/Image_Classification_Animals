@@ -27,9 +27,9 @@ pip install transformers torch Pillow kagglehu
 ```
 
 ## 📘 Language
-python
+- python
 
-# Download the dataset using kagglehub
+## Download the dataset using kagglehub
 ```
 import kagglehub
 
@@ -40,12 +40,12 @@ print("Path to dataset files:", path)
 ```
 
 ## 🧠 Model Used
-google/vit-base-patch16-224
-Pretrained Vision Transformer model, fine-tuned on ImageNet-1k.
+- google/vit-base-patch16-224
+- Pretrained Vision Transformer model, fine-tuned on ImageNet-1k.
 
 ## 📄 License
-Apache 2.0 – based on ViT paper and Hugging Face models.
+- Apache 2.0 – based on ViT paper and Hugging Face models.
 
 ## 🙌 Credits
-Hugging Face
-KaggleHub
+- Hugging Face
+- KaggleHub
