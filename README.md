@@ -1,5 +1,3 @@
-📄 GitHub Documentation
-
 # 🧠 Vision Transformer (ViT) Image Classifier
 
 This project demonstrates how to use a pre-trained Vision Transformer (ViT) model from Hugging Face Transformers to classify animal images using a dataset downloaded from Kaggle via `kagglehub`.
