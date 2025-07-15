@@ -40,10 +40,3 @@ print("Path to dataset files:", path)
 ## 🧠 Model Used
 - google/vit-base-patch16-224
 - Pretrained Vision Transformer model, fine-tuned on ImageNet-1k.
-
-## 📄 License
-- Apache 2.0 – based on ViT paper and Hugging Face models.
-
-## 🙌 Credits
-- Hugging Face
-- KaggleHub
